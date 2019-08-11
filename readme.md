@@ -153,7 +153,7 @@ resolveLoader: {
 ### Record
 
 
-loader:
+#### loader:
 
 1、css-loader: 负责解析 CSS 代码，主要是为了处理 CSS 中的依赖
 
@@ -176,7 +176,8 @@ image-webpack-loader: 另一个图片压缩的loader，就是内置了多种图�
 
 
 
-plugin:
+
+#### plugin:
 
 1、clean-webpack-plugin: 用来删除output.path目录下的所有文件，以及每次成功打包后所有未使用的 webpack 资产
 
