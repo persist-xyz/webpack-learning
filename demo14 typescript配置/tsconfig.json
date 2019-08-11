@@ -1,0 +1,8 @@
+{
+    "compileerOptions": {
+        "outDir": "./dist",
+        "module": "es6",
+        "target": "es5",
+        "allowJs": true
+    }
+}
